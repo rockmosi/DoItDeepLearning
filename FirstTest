@@ -1,0 +1,62 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/rockmosi/DoItDeepLearning/blob/master/FirstTest\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "-4xw5ZqGt6zH",
+        "colab_type": "text"
+      },
+      "source": [
+        "Do it! 립러닝"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "UvG8h90Lt_fp",
+        "colab_type": "code",
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 34
+        },
+        "outputId": "8249391b-9538-4aad-a874-704de3d3f0b9"
+      },
+      "source": [
+        "print(\"Hello, Do it 딥러닝\")"
+      ],
+      "execution_count": 1,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "text": [
+            "Hello, Do it 딥러닝\n"
+          ],
+          "name": "stdout"
+        }
+      ]
+    }
+  ]
+}
